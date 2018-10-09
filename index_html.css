@@ -1,0 +1,20 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+html, body { min-height: 100% } 
+body { background-color:#000000; background-image: url(rc_images/comptech2_1024x576.jpg); background-position:top left; background-size:cover; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#img_2c509ff5 { vertical-align: bottom; position:relative; display: inline-block; width:63%; background:none;  }
+.textstyle2 { font-size:13pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#button_78d6203e { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:248px; height:53px; background-color:#00A96A; background: linear-gradient(to bottom,#00A96A, #004C2F 50%, #003B25 50%, #002A1A); border: 2px solid #005932;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle3 { font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+.textstyle4 { text-align:left; }
+#button_b61e83 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:245px; height:52px; background-color:#00A9BC; background: linear-gradient(to bottom,#00A9BC, #004C54 50%, #003B41 50%, #002A2F); border: 2px solid #005959;  }
+.textstyle5 { font-size:13pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
+.textstyle6 { text-align:right; }
+#button_325f9d76 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:95px; height:22px; background-color:#A900A2; background: linear-gradient(to bottom,#A900A2, #4C0048 50%, #3B0038 50%, #2A0028); border: 2px solid #59004C;  }
+.textstyle7 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+.textstyle8 { font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
